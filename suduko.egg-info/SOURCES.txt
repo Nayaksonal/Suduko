@@ -1,0 +1,10 @@
+setup.py
+./src/__init__.py
+./src/myfile.py
+./src/working.py
+suduko.egg-info/PKG-INFO
+suduko.egg-info/SOURCES.txt
+suduko.egg-info/dependency_links.txt
+suduko.egg-info/top_level.txt
+test/test_suduko.py
+test/test_sudukos_example.py

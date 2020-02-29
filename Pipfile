@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+#dacite = "*"
+#setuptools = "*"
+#pytest = "*"
+pytest = "*"
+pytest-mock = "*"
+
+[dev-packages]
+#pytest-mock = "*"
+pytest = "*"
+pytest-mock = "*"
+suduko = {editable = true,path = "."}
+
+[requires]
+python_version = "3.7"
